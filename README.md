@@ -214,4 +214,4 @@ FOCA is offered as a complete free version with all features and updates include
 Start securing your web presence today with FOCA! Download now and uncover the hidden metadata that could enhance your security audits.
 
 ---
-**Last updated:** 2026-10-04 21:08:54 UTC
+**Last updated:** 2026-10-05 00:38:12 UTC
